@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Peehu Gulati
 
 🎓 B.Tech CSE (AI/ML) Student at VIT Bhopal University
+
 💡 Interested in Artificial Intelligence, Machine Learning and Software Development
 
 
