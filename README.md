@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Peehu Gulati
+
+🎓 B.Tech CSE (AI/ML) Student at VIT Bhopal University
+💡 Interested in Artificial Intelligence, Machine Learning and Software Development
+
+
+## 📫 Connect With Me
+* LinkedIn: linkedin.com/in/peehu-gulati-40703835a
+
+
 
 <!--
 **peehu-2810/peehu-2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
